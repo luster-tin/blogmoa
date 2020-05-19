@@ -4,31 +4,31 @@
       "category": "IT·인터넷",
       "title": "모이모이의 IT 이야기",
       "naverId": "moimoi1357",
-      "tumbnail": "recommend/thumbnail1.png"
+      "tumbnail": "https://raw.githubusercontent.com/luster-tin/blogmoa/master/recommend/thumbnail1.png"
     },
     {
       "category": "여행·숙박",
       "title": "Der Sinn des Lebens",
       "naverId": "dongi0508",
-      "tumbnail": "recommend/thumbnail2.png"
+      "tumbnail": "https://raw.githubusercontent.com/luster-tin/blogmoa/master/recommend/thumbnail2.png"
     },
     {
       "category": "패션·의류",
       "title": "제이영의 별빛더하기★",
       "naverId": "seojy8353",
-      "tumbnail": "recommend/thumbnail3.png"
+      "tumbnail": "https://raw.githubusercontent.com/luster-tin/blogmoa/master/recommend/thumbnail3.png"
     },
     {
       "category": "웰빙·건강",
       "title": "규리의 한약초일기장",
       "naverId": "7412k",
-      "tumbnail": "recommend/thumbnail4.png"
+      "tumbnail": "https://raw.githubusercontent.com/luster-tin/blogmoa/master/recommend/thumbnail4.png"
     },
     {
       "category": "인테리어",
       "title": "마시따남도의 뷰티,패션,인테리어,플레이팅 공간",
       "naverId": "bushcherry1",
-      "tumbnail": "recommend/thumbnail5.png"
+      "tumbnail": "https://raw.githubusercontent.com/luster-tin/blogmoa/master/recommend/thumbnail5.png"
     }
   ]
 }
