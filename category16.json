@@ -17,6 +17,10 @@
       "naverId": "hacademia"
     },
     {
+      "title": "에듀윌 공식블로그",
+      "naverId": "eduwillgroup"
+    },
+    {
       "title": "Nil Desperandum",
       "naverId": "hellstudy"
     },
@@ -29,16 +33,20 @@
       "naverId": "ohys83"
     },
     {
+      "title": "매일 25분, 엔구 화상영어",
+      "naverId": "dmm_korea"
+    },
+    {
+      "title": "멘토와함께",
+      "naverId": "thdudwhgdkdy"
+    },
+    {
       "title": "구름한잔",
       "naverId": "willout"
     },
     {
       "title": "해커스인강 공식 블로그",
       "naverId": "hackersingang"
-    },
-    {
-      "title": "멘토와함께",
-      "naverId": "thdudwhgdkdy"
     }
   ]
 }

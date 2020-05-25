@@ -17,12 +17,24 @@
       "naverId": "audio_hifi"
     },
     {
+      "title": "대한민국 119_소방청 공식 블로그",
+      "naverId": "safeppy"
+    },
+    {
+      "title": "건축과 일상",
+      "naverId": "aldus_06"
+    },
+    {
       "title": "영마클",
       "naverId": "eternity9us"
     },
     {
       "title": "촬영감독 나종광",
       "naverId": "1967jk"
+    },
+    {
+      "title": "산업통상자원부 블로그",
+      "naverId": "mocienews"
     },
     {
       "title": "새벽하늘 블로그",
@@ -32,9 +44,5 @@
       "title": "하얀사과농원",
       "naverId": "alstpf"
     },
-    {
-      "title": "산업통상자원부 블로그",
-      "naverId": "mocienews"
-    }
-  ]
+
 }

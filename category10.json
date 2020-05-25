@@ -13,12 +13,12 @@
       "naverId": "hope_city"
     },
     {
-      "title": "국토교통부",
-      "naverId": "mltmkr"
+      "title": "경기도 공식 블로그",
+      "naverId": "gyeonggi_gov"
     },
     {
-      "title": "작은것을 연결하는 강한 힘!",
-      "naverId": "bizinfo1357"
+      "title": "국토교통부",
+      "naverId": "mltmkr"
     },
     {
       "title": "까칠한 조땡",
@@ -33,12 +33,16 @@
       "naverId": "osan_si"
     },
     {
-      "title": "경기도 공식 블로그",
-      "naverId": "gyeonggi_gov"
+      "title": "전라북도 공식 블로그",
+      "naverId": "jbgokr"
     },
     {
       "title": "광주사랑",
       "naverId": "gjcityi"
+    },
+    {
+      "title": "작은것을 연결하는 강한 힘!",
+      "naverId": "bizinfo1357"
     }
   ]
 }

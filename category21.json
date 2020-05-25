@@ -13,12 +13,16 @@
       "naverId": "neces2"
     },
     {
-      "title": "소라윙즈의 소소한 IT/게임 리뷰",
-      "naverId": "soary81"
-    },
-    {
       "title": "PLAY IT : enow.co.kr",
       "naverId": "winsweet"
+    },
+    {
+      "title": "IT, 게임, 그리고 육아 이야기",
+      "naverId": "playmyworld"
+    },
+    {
+      "title": "달콤미니미 행복이야기",
+      "naverId": "hyunjung5340"
     },
     {
       "title": "김땍이의 놀이터",
@@ -29,16 +33,24 @@
       "naverId": "tech-plus"
     },
     {
+      "title": "세수하면이병헌 IT, 육아",
+      "naverId": "supapa13"
+    },
+    {
+      "title": "아이작군의 Life 속으로",
+      "naverId": "2pnn"
+    },
+    {
+      "title": "소라윙즈의 소소한 IT/게임 리뷰",
+      "naverId": "soary81"
+    },
+    {
       "title": "놀던청년",
       "naverId": "moyeu119"
     },
     {
       "title": "바람이 분다..",
       "naverId": "oyabung0612"
-    },
-    {
-      "title": "달콤미니미 행복이야기",
-      "naverId": "hyunjung5340"
     }
   ]
 }
