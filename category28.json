@@ -28,6 +28,33 @@
 			"subscriberCount": 7886
 		},
 		{
+			"blogId": "tripblog",
+			"blogName": "[동행 블로그]",
+			"category": "법률회계",
+			"introduce": "同行[동행]        \n\n[네이버 공식 인플루언서]\n\n모바일에서 @동행 검색~\n\ntripblog@naver.com\n\n광고 마케팅 \n경영 컨설팅\n포스팅 문의\n온라인 광고\n바이럴 마케팅\n스마트스토어 컨설팅",
+			"nickName": "동행",
+			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/MjAyMDA1MTNfMTI2/MDAxNTg5MzUwNDY2Njk0.Ij4WCogE5Uz0meuuK7gJUf8Ga0r7TV7fsUyc39G1KjMg.Mxus9QleSqihfzAK4oUG-UgBC-HH4TkRzUI-DJOasbIg.JPEG.tripblog/%25B5%25BF%25C7%25E0%2B%25C7%25C1%25B7%25CE%25C7%25CA.jpg?type=s1",
+			"subscriberCount": 7783
+		},
+		{
+			"blogId": "kipoworld2",
+			"blogName": "특허청 공식 블로그",
+			"category": "법률회계",
+			"introduce": "발명으로 만드는 일자리, 특허로 더하는 행복",
+			"nickName": "kipoworld2",
+			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/20160420_73/kipoworld2_14611340998877OOOI_JPEG/logo.jpg?type=s1",
+			"subscriberCount": 7676
+		},
+		{
+			"blogId": "hi_orange",
+			"blogName": "Love and Work",
+			"category": "법률회계",
+			"introduce": "",
+			"nickName": "Reese",
+			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/MjAxNjEyMjRfMTcz/MDAxNDgyNTY2NzMyODUy.TsNer0wVtzKTUYplI-We4U6RLQcBZ0qQ5gh0Tccj8pYg.q11nlyLtjDD4bNW5kv8agKypimgG6sMSsmb6YJAA6fAg.JPEG.hi_orange/profileImage.jpg?type=s1",
+			"subscriberCount": 1524
+		},
+		{
 			"blogId": "neogstar",
 			"blogName": "세무사 주해석",
 			"category": "법률회계",
@@ -46,24 +73,6 @@
 			"subscriberCount": 1104
 		},
 		{
-			"blogId": "tripblog",
-			"blogName": "[동행 블로그]",
-			"category": "법률회계",
-			"introduce": "同行[동행]        \n\n[네이버 공식 인플루언서]\n\n모바일에서 @동행 검색~\n\ntripblog@naver.com\n\n광고 마케팅 \n경영 컨설팅\n포스팅 문의\n온라인 광고\n바이럴 마케팅\n스마트스토어 컨설팅",
-			"nickName": "동행",
-			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/MjAyMDA1MTNfMTI2/MDAxNTg5MzUwNDY2Njk0.Ij4WCogE5Uz0meuuK7gJUf8Ga0r7TV7fsUyc39G1KjMg.Mxus9QleSqihfzAK4oUG-UgBC-HH4TkRzUI-DJOasbIg.JPEG.tripblog/%25B5%25BF%25C7%25E0%2B%25C7%25C1%25B7%25CE%25C7%25CA.jpg?type=s1",
-			"subscriberCount": 7783
-		},
-		{
-			"blogId": "hi_orange",
-			"blogName": "Love and Work",
-			"category": "법률회계",
-			"introduce": "",
-			"nickName": "Reese",
-			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/MjAxNjEyMjRfMTcz/MDAxNDgyNTY2NzMyODUy.TsNer0wVtzKTUYplI-We4U6RLQcBZ0qQ5gh0Tccj8pYg.q11nlyLtjDD4bNW5kv8agKypimgG6sMSsmb6YJAA6fAg.JPEG.hi_orange/profileImage.jpg?type=s1",
-			"subscriberCount": 1524
-		},
-		{
 			"blogId": "skek0609",
 			"blogName": "[테헤란] 더불어 사는 法",
 			"category": "법률회계",
@@ -71,15 +80,6 @@
 			"nickName": "법무법인 테헤란",
 			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/MjAyMDAxMDNfNzgg/MDAxNTc4MDM3MzcyMDQ1.RXAk2J_B0zDH39FFmFnAgvCvG7Wx_oodTr4xdVPUuXAg.COldq5qEC1INORaHjHken2AYaqqHS5GsdwvvsKp1WuQg.JPEG.skek0609/KakaoTalk_20191106_161549576.jpg?type=s1",
 			"subscriberCount": 713
-		},
-		{
-			"blogId": "kipoworld2",
-			"blogName": "특허청 공식 블로그",
-			"category": "법률회계",
-			"introduce": "발명으로 만드는 일자리, 특허로 더하는 행복",
-			"nickName": "kipoworld2",
-			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/20160420_73/kipoworld2_14611340998877OOOI_JPEG/logo.jpg?type=s1",
-			"subscriberCount": 7676
 		},
 		{
 			"blogId": "hot3019",

@@ -28,24 +28,6 @@
 			"subscriberCount": 47175
 		},
 		{
-			"blogId": "lovelyse80",
-			"blogName": "인생은 한잔의 커피 디자인라떼",
-			"category": "디자인편집",
-			"introduce": "감성리뷰,요리,서평,일상 블로그",
-			"nickName": "디자인라떼",
-			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/20130221_120/lovelyse80_1361420982075fLqFX_JPEG/20121209coffee%C7%C1%B7%CE%C7%CA.jpg?type=s1",
-			"subscriberCount": 3857
-		},
-		{
-			"blogId": "daennis",
-			"blogName": "대니의 디자인 작업실",
-			"category": "디자인편집",
-			"introduce": "홍대 영상디자인전공 영상 디자이너 미디어 아티스트 프로젝션 맵핑",
-			"nickName": "상상대니",
-			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/20150925_116/daennis_1443110527240j6e02_JPEG/MN7A9680-1.jpg?type=s1",
-			"subscriberCount": 3094
-		},
-		{
 			"blogId": "jok6835",
 			"blogName": "파포장인｜PPT제작 홈페이지형블로그",
 			"category": "디자인편집",
@@ -53,6 +35,15 @@
 			"nickName": "파포장인",
 			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/MjAxOTA3MTVfMjQw/MDAxNTYzMTY4Mzk0NDYx.EgMpgPIMSRNcG1JCLgHnFjqzwa5-gBvKujO-c7ngKyIg.OnQX-L7X71hcQxTLVapyvb87fECwFU2SyxnDbpu5GfIg.PNG.jok6835/11.png?type=s1",
 			"subscriberCount": 45803
+		},
+		{
+			"blogId": "lkdrkdrl",
+			"blogName": "HP100",
+			"category": "디자인편집",
+			"introduce": "",
+			"nickName": "NEWTURN",
+			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/20160505_121/lkdrkdrl_14623746355645UwM7_PNG/11.png?type=s1",
+			"subscriberCount": 19049
 		},
 		{
 			"blogId": "parkwasdy",
@@ -73,13 +64,22 @@
 			"subscriberCount": 4372
 		},
 		{
-			"blogId": "lkdrkdrl",
-			"blogName": "HP100",
+			"blogId": "lovelyse80",
+			"blogName": "인생은 한잔의 커피 디자인라떼",
 			"category": "디자인편집",
-			"introduce": "",
-			"nickName": "NEWTURN",
-			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/20160505_121/lkdrkdrl_14623746355645UwM7_PNG/11.png?type=s1",
-			"subscriberCount": 19049
+			"introduce": "감성리뷰,요리,서평,일상 블로그",
+			"nickName": "디자인라떼",
+			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/20130221_120/lovelyse80_1361420982075fLqFX_JPEG/20121209coffee%C7%C1%B7%CE%C7%CA.jpg?type=s1",
+			"subscriberCount": 3857
+		},
+		{
+			"blogId": "daennis",
+			"blogName": "대니의 디자인 작업실",
+			"category": "디자인편집",
+			"introduce": "홍대 영상디자인전공 영상 디자이너 미디어 아티스트 프로젝션 맵핑",
+			"nickName": "상상대니",
+			"profileUrl": "https://blogpfthumb-phinf.pstatic.net/20150925_116/daennis_1443110527240j6e02_JPEG/MN7A9680-1.jpg?type=s1",
+			"subscriberCount": 3094
 		},
 		{
 			"blogId": "tmdwn8385",
